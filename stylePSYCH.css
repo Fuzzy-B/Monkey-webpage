@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(59, 52, 52);
+    color: antiquewhite;
+     
+}
+
+header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    ;
+  text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+article {
+     text-align: center;
+     font-size: 24;
+}
