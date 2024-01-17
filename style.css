@@ -21,9 +21,10 @@ section {
 article {
      text-align: center;
      font-size: 24;
-     background-color: rgb(123, 23, 126); 
+     background-color: orange; 
      width: 275px;
      height: 20px;
      margin: 0 auto;
+      
      
 }
